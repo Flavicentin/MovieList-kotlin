@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FLAVIO_VICENTIN_RM87231</string>
+    <string name="title">Filmes que estão em cartaz hoje!</string>
+    <string name="movie_title">Filme</string>
+    <string name="movie_synopsis">Sinopse</string>
+    <string name="parental_rating">Classificação</string>
+    <string name="movie_genre">Gênero do Filme</string>
+    <string name="movie_duration">Tempo de Duração</string>
+</resources>
